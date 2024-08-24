@@ -1,0 +1,22 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+new file mode 100644
+--- /dev/null	(revision 824d4d5a7081b19c815b82dee7184c40d153a173)
++++ b/README.md	(revision 824d4d5a7081b19c815b82dee7184c40d153a173)
+@@ -0,0 +1,12 @@
++- 👋 Hi, I’m @PwntZ3R0
++- 👀 I’m interested in ...
++- 🌱 I’m currently learning ...
++- 💞️ I’m looking to collaborate on ...
++- 📫 How to reach me ...
++- 😄 Pronouns: ...
++- ⚡ Fun fact: ...
++
++<!---
++PwntZ3R0/PwntZ3R0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++You can click the Preview link to take a look at your changes.
++--->
